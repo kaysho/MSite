@@ -1,0 +1,11 @@
+D:\Projects\Personal\Tutorial\MSite\src\MSite.Core\bin\Debug\net7.0\MSite.Core.deps.json
+D:\Projects\Personal\Tutorial\MSite\src\MSite.Core\bin\Debug\net7.0\MSite.Core.dll
+D:\Projects\Personal\Tutorial\MSite\src\MSite.Core\bin\Debug\net7.0\MSite.Core.pdb
+D:\Projects\Personal\Tutorial\MSite\src\MSite.Core\obj\Debug\net7.0\MSite.Core.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\Personal\Tutorial\MSite\src\MSite.Core\obj\Debug\net7.0\MSite.Core.AssemblyInfoInputs.cache
+D:\Projects\Personal\Tutorial\MSite\src\MSite.Core\obj\Debug\net7.0\MSite.Core.AssemblyInfo.cs
+D:\Projects\Personal\Tutorial\MSite\src\MSite.Core\obj\Debug\net7.0\MSite.Core.csproj.CoreCompileInputs.cache
+D:\Projects\Personal\Tutorial\MSite\src\MSite.Core\obj\Debug\net7.0\MSite.Core.dll
+D:\Projects\Personal\Tutorial\MSite\src\MSite.Core\obj\Debug\net7.0\refint\MSite.Core.dll
+D:\Projects\Personal\Tutorial\MSite\src\MSite.Core\obj\Debug\net7.0\MSite.Core.pdb
+D:\Projects\Personal\Tutorial\MSite\src\MSite.Core\obj\Debug\net7.0\ref\MSite.Core.dll
